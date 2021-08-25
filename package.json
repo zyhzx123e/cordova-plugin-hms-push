@@ -1,0 +1,29 @@
+{
+  "name": "cordova-plugin-hms-push-alwaysmkt",
+  "version": "4.0.4",
+  "description": "cordova-plugin-hms-push-alwaysmkt",
+  "cordova": {
+    "id": "cordova-plugin-hms-push-alwaysmkt",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "push",
+    "hmspush",
+    "huaweipush",
+    "ecosystem:cordova"
+  ],
+  "author": "Jason",
+  "files": [
+    "hooks/**",
+    "resources/**",
+    "src/**",
+    "www/**",
+    "LICENCE",
+    "package.json",
+    "plugin.xml",
+    "README.md"
+  ]
+}
